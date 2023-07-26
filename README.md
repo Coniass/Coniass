@@ -2,7 +2,13 @@
 <img src="https://raw.githubusercontent.com/Coniass/Coniass/main/image.png" alt="Logo" width="400" style="float: left; margin-right: 200px;" /><br>
 **`Hobby nerd and IT Student`**
 
-Hello there! I'm Coniass, a tech enthusiast with a passion for networking and all things related. From tinkering with network technology to pushing the limits of what's possible, I love nothing more than getting lost in the world of tech. I firmly believe that technology has the power to bring people together and make the world a better place. With the right tools, connections, and know-how, we can achieve incredible things and make a lasting impact.
+Well, well, well, look who it is! It's me, Coniass, your friendly neighborhood tech enthusiast – or at least, that's what I'd like to think. I'm just a regular person with an above-average obsession for networking and all things tech-related. Who needs a social life when you have routers and switches to keep you company, right?
+
+I can spend hours tinkering with network technology, getting lost in a sea of cables and blinking lights. It's like my own little tech wonderland, where the possibilities are endless – or at least until I accidentally unplug something crucial and bring the whole thing crashing down.
+
+But hey, despite my occasional tech mishaps, I genuinely believe that technology can work wonders. It's like the modern-day magic that brings people together, bridges gaps, and makes our lives a little bit easier (when it's not causing us headaches, that is).
+
+So, here I am, Coniass, armed with my trusty tools, a whole bunch of connections (both physical and virtual), and some know-how that I picked up along the way. Together, we can conquer the tech world and make a difference – or maybe just avoid getting too tangled up in ethernet cables. One can only hope, right?
 
 ## Socials:
 
