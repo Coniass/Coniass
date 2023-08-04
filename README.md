@@ -1,6 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/Coniass/Coniass/main/image.png" alt="Logo" width="400" style="float: left; margin-right: 200px;" /><br>
-**`Hobby nerd and IT Student`**
+**`Hobby nerd and IT Apprentice`**
 
 Well, well, well, look who it is! It's me, Coniass, your friendly neighborhood tech enthusiast – or at least, that's what I'd like to think. I'm just a regular person with an above-average obsession for networking and all things tech-related. Who needs a social life when you have routers and switches to keep you company, right?
 
