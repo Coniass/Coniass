@@ -34,8 +34,8 @@ So, here I am, Coniass, armed with my trusty tools, a whole bunch of connections
 
 ## Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Coniass&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Coniass&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coniass&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coniass&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Coniass&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
